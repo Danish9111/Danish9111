@@ -14,8 +14,10 @@ Solving daily-life problems through tech, learning  and building apps that *matt
 📈 **Looking to Collaborate?**  
 Whether it's startup projects, open source collabs, or a crazy AI-integrated idea — I’m all ears.
 ![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish9111&show_icons=true&theme=radical)
+
 📫 Reach Me:  
-[LinkedIn]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/nadeem-danish-709012248/)) • [Email](mailto:nadeemdanish.9188.1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nadeem-danish-709012248/) • [Email](mailto:nadeemdanish.9188.1@gmail.com)
+
 
 
 
