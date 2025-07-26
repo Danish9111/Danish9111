@@ -9,7 +9,7 @@ Building a next-gen **Labour Services App** to revolutionize how people hire ski
 `Flutter` • `Dart` • `Firebase` • `Supabase` • `Riverpod` • `REST APIs` • `SQLite`
 
 💡 **What Drives Me:**  
-Solving daily-life problems through tech, learning,  and building apps that *matter*.
+Solving daily-life problems through tech, learning,  and  apps that *matter*.
 
 📈 **Looking to Collaborate?**  
 Whether it's startup projects, open source collabs, or a crazy AI-integrated idea — I’m all ears.
