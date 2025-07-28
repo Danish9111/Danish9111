@@ -3,7 +3,7 @@
 Hey there! I'm Nadeem — a passionate Flutter developer who turns bold ideas into blazing-fast cross-platform apps. I craft clean UIs, write maintainable code, and love building things that actually **solve real problems**.
 
 🚀 **Current Focus:**  
-Building a next-gen **Labour Services App** to revolutionize how people hire skilled workers — from electricians to mechanics — in just a few taps.
+Building a next-gen **Labour Services App** to revolutionize how people hire skilled workers — from  to mechanics — in just a few taps.
 
 🛠️ **Tech Stack I Speak Fluently:**  
 `Flutter` • `Dart` • `Firebase` • `Supabase` • `Riverpod` • `REST APIs` • `SQLite`
