@@ -1,4 +1,4 @@
-# 👷‍♂️ Nadeem Danish | Flutter App Developer |
+# 👷‍♂️ Nadeem Ullah Danish | Flutter App Developer |
 
 Hey there! I'm Nadeem — a passionate Flutter developer who turns bold ideas into blazing-fast cross-platform apps. I craft clean UIs, write maintainable code, and love building things that actually **solve real problems**.
 
